@@ -13,6 +13,25 @@ NORMAL/SIMPLE turret with normal machine gun bullets with no elementals effects
 
 
 
+DOWNLOAD LINKS:
+LINK 1 :
+https://github.com/zznabil/L4D2-Elemental-Turret-Sentry-Machine-Guns-recovered/tree/main
+
+BACKUP LINK 1:
+CONTACT ME STEAM MESSAGE OR USE THE ORIGINALS LINKS
+
+
+REQUIREMENTS:
+L4D2
+SOURCEMODS
+METAMODS
+LOCAL SERVER
+
+
+
+recovered a lost plugin of some kind of elemental turret sentry machine guns systems from sourcemods & github repos.
+the guns shoots automatically like a sentry turret, using minigun models.
+
 i edited the .sp file to disable some LMC and DLR requirements for the code to successfully run.
 i edited the .sp file, some ray tracing targeting system to minimize target switching delays of the turret (maybe just placebo).
 
